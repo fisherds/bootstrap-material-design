@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+## We moved to other repository!
+
+Find the new repository at https://github.com/mdbootstrap/bootstrap-material-design
+=======
 <h1 align=center>Material Design for Bootstrap</h1>
 
 Material Design for Bootstrap is the best way to use [Material Design guidelines by Google](https://material.io/design/introduction/)
@@ -53,3 +58,4 @@ of each release version.
 
 ## License
 [MIT License](LICENSE.md)
+>>>>>>> parent of 9208599 (Update README.md)
